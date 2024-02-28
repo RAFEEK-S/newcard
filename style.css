@@ -1,0 +1,49 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.form{
+    
+    margin-left: 700px;
+    margin-top: 200px;
+    width: 500px;
+    background-color:rgb(194, 229, 229);
+    padding: 10px 0px;
+    border-radius: 20px;
+    border: 2px solid lightseagreen
+    
+   
+}
+.formdetails{
+   margin:30px;
+   font-size:25px;
+   
+   
+}
+.name{
+   width:100%;
+    display:block;
+    border-radius:10px;
+    box-shadow: 10px 10px 5px lightblue;
+    border: 2px solid lightgrey;
+    
+}
+
+
+
+.firstname{
+    width:100%;
+    display:block;
+    border-radius:10px;
+    box-shadow: 10px 10px 5px lightblue;
+    border: 2px solid lightgrey;
+}
+
+.lastname{
+    width:100%;
+    display:block;
+    border-radius:10px;
+    box-shadow: 10px 10px 5px lightblue;
+    border: 2px solid lightgrey;
+}
